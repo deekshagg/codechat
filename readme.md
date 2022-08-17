@@ -31,7 +31,7 @@ I have created the following pages:
 ![signup](/assests/screenshots/signup-blank.png)
 
 **Sign up when incomplete:**
-![signup](/assests/screenshots/signup-incomplete.png)
+![signup](/assests/screenshots/signup-incomplete.jpeg)
 
 **Sign in:**
 ![signup](/assests/screenshots/signin.jpeg)

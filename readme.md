@@ -39,8 +39,14 @@ I have created the following pages:
 **Homepage:**
 ![signup](/assests/screenshots/home.png)
 
-**Contact Us:**
-![signup](/assests/screenshots/signup-blank.png)
+**Contact Us: Incomplete**
+![signup](/assests/screenshots/contactus-incomplete.png)
 
-**Sign up:**
-![signup](/assests/screenshots/signup-blank.png)
+**Contact Us: Complete**
+![signup](/assests/screenshots/complete-contact.png)
+
+**About Us**
+![signup](/assests/screenshots/aboutus.png)
+
+**After Signing out**
+![signup](/assests/screenshots/aftersignout.png)
